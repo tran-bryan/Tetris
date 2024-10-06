@@ -1,4 +1,4 @@
-# Personal-Tetris-Making-Project-to-show-skills-among-other-things-
+# Personal-Tetris-Project-
 
 As per the title, this mini project was done to make tetris stuff.
 Currently in the rough stages but I will later on refine things as it goes as I am still working out the 
